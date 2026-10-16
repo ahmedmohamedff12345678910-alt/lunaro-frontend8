@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lunaro-software.vercel.app/sitemap.xml
